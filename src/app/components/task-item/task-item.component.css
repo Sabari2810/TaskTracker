@@ -1,0 +1,19 @@
+.task{
+    background-color: azure;
+    padding: 10px;
+    margin: 5px;
+}
+
+.reminder{
+    border-left: 5px solid green;
+}
+
+.task h3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.fa-btn{
+    cursor: pointer;;
+}
